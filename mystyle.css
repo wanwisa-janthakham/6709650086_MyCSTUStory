@@ -1,0 +1,42 @@
+body{
+    background-image: url('resources/IMG_4907.JPG');
+    padding: 20px;
+}
+div{
+    text-align: center;
+}
+h1{
+    color: white;
+    background-color: tomato;
+}
+.tong1{
+    border: 10px solid cornflowerblue;
+    padding: 20px;
+    background-color: azure;
+    
+}
+.city{
+    background-color: tomato;
+    color: white;
+    border: 2px solid black;
+    margin: 10px;
+    padding: 15px;
+}
+
+video{
+    width: 25%;
+    height: auto;
+}
+.spelling-error{
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: red;
+}
+#n1{
+    background-color: blanchedalmond;
+    border: 5px solid saddlebrown;
+    color: saddlebrown;
+    
+}
+
+
