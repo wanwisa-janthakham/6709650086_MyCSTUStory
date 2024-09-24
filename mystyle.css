@@ -38,8 +38,44 @@ video{
     color: saddlebrown;
     
 }
-Year1{
+.Year1234{
     text-align: center;
+    background-color: rgb(12, 72, 74);
+    padding: 10px;
+    border: 15px solid rgb(17, 74, 34);
+    color: white;
+    
 }
+.Year1{
+    text-align: center;
+    border: 4px solid rgb(17, 74, 34);
+    padding: 15px;
+
+
+}
+.together{
+    text-align: center;
+    color: brown;
+}
+.Year2{
+    text-align: center;
+    border: 4px solid rgb(17, 74, 34);
+    padding: 15px;
+
+}
+.Year3 {
+    text-align: center;
+    border: 4px solid rgb(17, 74, 34);
+    padding: 15px;
+
+}
+.Year4 {
+    text-align: center;
+    border: 4px solid rgb(17, 74, 34);
+    padding: 15px;
+
+}
+    
+    
 
 
