@@ -91,7 +91,15 @@ time{
 
 
 }
+.FutureJourney{
+    text-align: right;
+}
+.CSTUStoryFuture {
+    text-align: right;
+}   
+.CSTUStoryJourney{
+    text-align: right;
     
-    
+}
 
 
